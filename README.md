@@ -1,5 +1,9 @@
 # Link Collections
 
+## Microsoft Windows and Office ISO Download Tool
+
+<https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool>
+
 ## 7-Zip
 
 <https://sourceforge.net/projects/sevenzip/>
